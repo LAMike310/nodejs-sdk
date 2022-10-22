@@ -28,7 +28,7 @@ That is all! You are now ready to hit the ground running adding Bitcoin Lightnin
 
 ```js
 // Import the `initAPI` method
-import { initAPI } from 'zebedee-node';
+import { initAPI } from 'zebedee-nodejs';
 
 // Configure the API (API Keys available at the ZEBEDEE Developers Dashboard)
 const apiOptions = { apiKey: 'XXXXXX' };
